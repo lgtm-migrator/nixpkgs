@@ -12,7 +12,7 @@ require (
 	github.com/maruel/panicparse/v2 v2.2.2
 	golang.org/x/tools v0.1.9
 	honnef.co/go/tools v0.2.2
-	moul.io/adapterkit v0.0.0-20220619192858-e6df15e3ae2f
+	moul.io/adapterkit v0.0.0-20220911120937-5aa25c664ad5
 	moul.io/assh/v2 v2.14.0
 	moul.io/moulsay v1.3.0
 	moul.io/prefix v1.7.1
