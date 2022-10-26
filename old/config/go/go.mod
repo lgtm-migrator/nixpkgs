@@ -5,7 +5,7 @@ go 1.18
 require (
 	berty.tech/berty/v2 v2.418.0
 	github.com/cespare/prettybench v0.1.0
-	github.com/daixiang0/gci v0.3.2
+	github.com/daixiang0/gci v0.8.2
 	github.com/gfanton/loon v1.0.0
 	github.com/gnolang/gno v0.0.0-20220712022912-c6d1e89d8307
 	github.com/goreleaser/goreleaser v1.5.0
@@ -357,7 +357,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.10.0 // indirect
-	github.com/stretchr/testify v1.7.2 // indirect
+	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/tecbot/gorocksdb v0.0.0-20191217155057-f0fad39f321c // indirect
