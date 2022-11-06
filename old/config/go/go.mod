@@ -7,10 +7,10 @@ require (
 	github.com/cespare/prettybench v0.1.0
 	github.com/daixiang0/gci v0.3.2
 	github.com/gfanton/loon v1.0.0
-	github.com/gnolang/gno v0.0.0-20220712022912-c6d1e89d8307
+	github.com/gnolang/gno v0.0.0-20221106030652-5b5522dd50e0
 	github.com/goreleaser/goreleaser v1.5.0
 	github.com/maruel/panicparse/v2 v2.2.2
-	golang.org/x/tools v0.1.9
+	golang.org/x/tools v0.1.12
 	honnef.co/go/tools v0.2.2
 	moul.io/adapterkit v0.0.0-20220619192858-e6df15e3ae2f
 	moul.io/assh/v2 v2.14.0
@@ -61,6 +61,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/cheekybits/genny v1.0.0 // indirect
 	github.com/cheggaaa/pb v1.0.29 // indirect
+	github.com/cockroachdb/apd v1.1.0 // indirect
 	github.com/containerd/containerd v1.6.6 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/crackcomm/go-gitignore v0.0.0-20170627025303-887ab5e44cc3 // indirect
@@ -386,13 +387,13 @@ require (
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
 	go4.org v0.0.0-20200411211856-f5505b9728dd // indirect
-	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
-	golang.org/x/mod v0.5.1 // indirect
-	golang.org/x/net v0.0.0-20220401154927-543a649e0bdd // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a // indirect
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
